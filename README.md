@@ -8,8 +8,8 @@
 
 <div style="text-align: center;" align="center">
   <br>
-  <a href="https://github.com/RonanWandre/RonanWandre.git"><img alt="Ronan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=RonanWandre&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RonanWandre/RonanWandre.git"><img alt="Ronan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanWandre&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <a href="https://github.com/ronanwandre/ronanwandre.git"><img alt="Ronan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanwandre&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ronanwandre/ronanwandre.git"><img alt="Ronan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanwandre&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
 </div>
 
 #
