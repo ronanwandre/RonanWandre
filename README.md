@@ -8,13 +8,13 @@
 
 <div style="text-align: center;" align="center">
   <br>
-  <a href="https://github.com/ronanwandre/ronanwandre.git"><img alt="Ronan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanwandre&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ronanwandre/ronanwandre.git"><img alt="Ronan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanwandre&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <a href="https://github.com/ronanwandre/ronanwandre.git">
+    <img alt="Ronan Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanwandre&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+  </a>
+  <a href="https://github.com/ronanwandre/ronanwandre.git">
+    <img alt="Ronan Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanwandre&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript&cache_seconds=86400"/>
+  </a>
 </div>
-
-#
-
-<p align="center">Graduando em Engenharia da Computação, estou sempre em busca de evolução e atualização constante no vasto universo da tecnologia. Sou movido pela paixão por aprender, explorar novas tendências e aplicar esse conhecimento na criação de soluções inovadoras e eficientes. Meu objetivo é enfrentar desafios que me permitam desenvolver habilidades técnicas e estratégicas, contribuindo para o avanço da área e impactando positivamente no mundo tecnológico.
 
 <br><br>
 
