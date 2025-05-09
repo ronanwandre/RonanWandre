@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=DCDCDC&center=true&vCenter=true&random=false&width=524&lines=Olá! Eu sou Ronan Wandré 👋" alt="Typing SVG">
-  </a>
-</div>
-
 <div style="text-align: center;" align="center">
   <br>
   <a href="https://github.com/ronanwandre/ronanwandre.git">
