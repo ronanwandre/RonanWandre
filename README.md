@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
+<div align="center"> <img alt="" height="190px" src="https://i.gifer.com/7k5e.gif"> </div> 
 
 ## Minhas Skills
 
-<img align="right" alt="" height="190px" src="https://i.gifer.com/7k5e.gif">
+
 
 **Aplicações e dados**
 
@@ -27,4 +27,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronanfarias/)
 [![Gmaill](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronanwsdf@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F55B20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
